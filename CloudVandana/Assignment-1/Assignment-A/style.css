@@ -1,0 +1,27 @@
+#EmployeeNm {
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  #EmployeeNm td, #EmployeeNm th {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  
+  #EmployeeNm tr:nth-child(even){background-color: #f2f2f2;}
+  
+  #EmployeeNm tr:hover {background-color: #ddd;}
+  
+  #EmployeeNm th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #d25cba;
+    color: white;
+  }
+#header{
+    text-align: center;
+    text-shadow: #d25cba;
+    color: brown;
+}
